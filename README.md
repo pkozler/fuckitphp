@@ -1,5 +1,5 @@
 # FuckIt-Php
 
 ### The PHP Error Steamroller
-FuckIt-Php uses state-of-the-art technology to make sure your PHP code runs
-whether it has any right to or not. Some code has an error? Fuck it.
+
+This library is inspired by Matt Diamond's [FuckIt.js](https://github.com/mattdiamond/fuckitjs) & AJ Alt's [FuckIt.py](https://github.com/ajalt/fuckitpy).
