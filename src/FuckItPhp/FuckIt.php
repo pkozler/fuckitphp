@@ -13,7 +13,7 @@ class FuckIt {
 
                 return (intval($fuckingStatus));
             }
-            catch (\Exception $fuckingException) {
+            catch (\Throwable $fuckingException) {
                 $fuckingLines = explode(PHP_EOL, $fuckedCode);
                 array_splice($fuckingLines, $fuckingException->getLine() - 1, 1);
                 $fuckedCode = implode(PHP_EOL, $fuckingLines);
